@@ -211,4 +211,8 @@ ENV/
 # mkdocs documentation
 /site
 
+<<<<<<< HEAD
 # End of https://www.gitignore.io/api/macos,linux,django,python,pycharm
+=======
+# End of https://www.gitignore.io/api/macos,linux,django,python,pycharm
+>>>>>>> Test_django_blog/main
