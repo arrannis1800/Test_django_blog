@@ -1,0 +1,16 @@
+site_name: youtube_videocourse
+
+site_dir: 'wiki/GENERIC/generic/build'
+
+nav:
+  - index: index.md
+  - pip: pip.md
+  - dev: dev.md
+  - settings: settings.md
+  - blog: blogs/models.md
+
+theme:
+  name: material
+
+dev_addr:
+  127.0.0.1:8200
